@@ -1,0 +1,13 @@
+pandoc: 2.11.4
+pkgdown: 2.0.2
+pkgdown_sha: ~
+articles:
+  F1_Step1_Tutorial: F1_Step1_Tutorial.html
+  F2_Step2_Tutorial: F2_Step2_Tutorial.html
+  F3_Step3_Tutorial: F3_Step3_Tutorial.html
+  F4_Statistics_Plot_Examples: F4_Statistics_Plot_Examples.html
+  F5_Download_Tutorial: F5_Download_Tutorial.html
+  F6_FAQ: F6_FAQ.html
+  NetPhorceShiny: NetPhorceShiny.html
+last_built: 2022-02-28T21:16Z
+
